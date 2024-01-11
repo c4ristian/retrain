@@ -1,0 +1,13 @@
+# YAML for setting up a conda environment for
+# the aise project
+name: retrain
+channels:
+#  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - python>=3.10
+  - scikit-learn
