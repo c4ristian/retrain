@@ -1,11 +1,11 @@
 # Retrain Project
 
 ## What is it?
-This project uses a neural network to show that retraining can be harder than training from 
-scratch in a radically changing environment.
+This project uses an artificial neural network to show that retraining can be harder than training from 
+scratch in a changing environment.
 
 ## Main Features
-The project provides a [jupyter notebook](_backup/retrain.ipynb) running the experiment.
+The project provides a [jupyter notebook](retrain_phones.ipynb) running the experiment.
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
