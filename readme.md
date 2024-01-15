@@ -1,7 +1,7 @@
 # Retrain Project
 
 ## What is it?
-This project uses an artificial neural network to show that retraining can be harder than training from 
+This project uses an artificial neural network to show why retraining can be harder than training from 
 scratch in a changing environment.
 
 ## Main Features
