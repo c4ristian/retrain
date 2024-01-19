@@ -5,7 +5,7 @@ This project uses an artificial neural network to show why retraining can be har
 scratch in a changing environment.
 
 ## Main Features
-The project provides a [jupyter notebook](retrain_phones.ipynb) running the experiment.
+The experiment is run using a [jupyter notebook](retrain_phones.ipynb).
 
 ## Where to get it
 The source code is currently hosted on GitHub at:
