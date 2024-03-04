@@ -1,5 +1,4 @@
-# YAML for setting up a conda environment for
-# the aise project
+# YAML for setting up a conda environment
 name: retrain
 channels:
 #  - conda-forge
